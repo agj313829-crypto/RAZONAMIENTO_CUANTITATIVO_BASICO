@@ -4,12 +4,6 @@
         "slug": "glosario",
         "title": "Glosario",
         "path": "pages/glosario.html"
-    },   
-    {
-        "icon": "fa fa-folder-open",
-        "slug": "material-complementario",
-        "title": "Material complementario",
-        "path": "pages/material-complementario.html"
     },    
     {
         "icon": "fa fa-book",
